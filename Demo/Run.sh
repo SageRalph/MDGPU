@@ -1,0 +1,1 @@
+java -Djava.library.path=./ -classpath ./aparapi.jar:MDGPU.jar mdgpu.MDGPU

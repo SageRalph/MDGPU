@@ -1,0 +1,7 @@
+Source/nbproject/private/
+Source/build/
+Source/nbbuild/
+Source/dist/
+Source/nbdist/
+Source/nbactions.xml
+Source/.nb-gradle/
